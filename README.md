@@ -125,6 +125,5 @@ example.com,1.2.3.7,A
 ├── client.py
 ├── zone.txt
 ├── zone2.txt (optional)
-├── README.md
-└── details.txt
+
 ```
